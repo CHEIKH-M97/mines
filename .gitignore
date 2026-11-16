@@ -1,0 +1,4 @@
+# Compiled output (build it locally, see README)
+*.exe
+*.o
+*.obj
